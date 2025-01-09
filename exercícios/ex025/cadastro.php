@@ -1,0 +1,1 @@
+Você pode estudar pra saber o que fazer com tudo isso!
