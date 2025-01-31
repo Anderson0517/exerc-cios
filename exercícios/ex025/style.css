@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(245, 232, 57);
+    text-align: center;
+}
+
+#fild {
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.651);
+}
+
+#fild > legend {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.botao {
+   text-align: center;
+}
+
+.botao > input {
+    background-color: rgb(72, 240, 148);
+    border-radius: 5px;
+    padding: 5px;
+}
